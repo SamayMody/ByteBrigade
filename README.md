@@ -17,7 +17,11 @@
   <a >Credits</a> •
 </p>
 
-![testvid](https://github.com/SachinPrasanth777/Campus-Pulse/assets/113875363/8227b516-a2a4-4c99-9ae4-9f2d1adeb981)
+
+
+https://github.com/SamayMody/ByteBrigade/assets/113875363/ec006a39-d359-4368-b6ea-6f5e0414a582
+
+
 
 ## Key Features
 
