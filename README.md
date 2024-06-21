@@ -33,9 +33,16 @@
   - Shows availability of Halls you would like to book .
 
 
-## Download APK
-
-
+## Running the code
+```
+cd backend
+```
+```
+pip install -r requirements.txt
+```
+```
+uvicorn index:app --reload
+```
 
 ## Credits
 
@@ -43,4 +50,5 @@ This app uses the following tech stacks:
 
 - FastAPI
 - MongoDB
+- Hugging Faces(For Deployment)
 - Flutter
